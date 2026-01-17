@@ -2,7 +2,7 @@ package CoreProgramming.JavaArrays.level1;
 
 import java.util.Scanner;
 
-class Copy2DTo1D {
+class CopyTwoDimensionalArrayToOneDimensionalArray {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
