@@ -1,4 +1,4 @@
-package DataStructures.LinkedList;
+package datastructures.linkedlist;
 
 // Singly Linked List: Social Media Friend Connections
 

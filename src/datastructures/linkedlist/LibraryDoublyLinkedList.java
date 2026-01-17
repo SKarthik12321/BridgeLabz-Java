@@ -1,4 +1,4 @@
-package DataStructures.LinkedList;
+package datastructures.linkedlist;
 
 // Doubly Linked List: Library Management System
 

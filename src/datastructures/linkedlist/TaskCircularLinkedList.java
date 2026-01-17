@@ -1,4 +1,4 @@
-package DataStructures.LinkedList;
+package datastructures.linkedlist;
 
 // Circular Linked List: Task Scheduler
 

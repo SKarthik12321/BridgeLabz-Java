@@ -1,5 +1,4 @@
-package DataStructures.LinkedList;
-
+package datastructures.linkedlist;
 // Singly Linked List: Inventory Management System
 
 class Item {
