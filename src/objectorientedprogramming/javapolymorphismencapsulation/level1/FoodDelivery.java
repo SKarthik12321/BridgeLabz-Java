@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.JavaPolymorphismEncapsulation.level1;
+package objectorientedprogramming.javapolymorphismencapsulation.level1;
 
 abstract class FoodItem {
     protected double price;

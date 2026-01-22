@@ -1,6 +1,6 @@
-package Object_Oriented_Programming.JavaPolymorphismEncapsulation.level1;
+package objectorientedprogramming.javapolymorphismencapsulation.level1;
 
-abstract class Vehicle {
+abstract class Vehicles {
     protected double rate;
     abstract double calculateRentalCost(int days);
 }
@@ -9,7 +9,7 @@ interface Insurable {
     double calculateInsurance();
 }
 
-class Car extends Vehicle implements Insurable {
+class Car extends Vehicles implements Insurable {
     public Car() {
         rate = 1000;
     }
@@ -25,7 +25,7 @@ class Car extends Vehicle implements Insurable {
 
 public class VehicleRental {
     public static void main(String[] args) {
-        Vehicle v = new Car();
+        Vehicles v = new Car();
         System.out.println(v.calculateRentalCost(3));
     }
 }
