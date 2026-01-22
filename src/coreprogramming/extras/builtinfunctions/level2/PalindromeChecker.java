@@ -1,4 +1,4 @@
-package CoreProgramming.Extras.BuiltInFunctions.level2;
+package coreprogramming.extras.builtinfunctions.level2;
 
 import java.util.Scanner;
 
