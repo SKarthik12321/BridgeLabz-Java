@@ -1,4 +1,4 @@
-package CoreProgramming.JavaArrays.level2;
+package coreprogramming.javaarrays.level2;
 
 import java.util.Scanner;
 
