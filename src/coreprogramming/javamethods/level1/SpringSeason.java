@@ -1,4 +1,4 @@
-package CoreProgramming.JavaMethods.level1;
+package coreprogramming.javamethods.level1;
 
 public class SpringSeason {
     static boolean isSpring(int month, int day){

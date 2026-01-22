@@ -1,4 +1,4 @@
-package CoreProgramming.JavaMethods.level2;
+package coreprogramming.javamethods.level2;
 
 public class RandomStats {
     static int[] generate(int n){

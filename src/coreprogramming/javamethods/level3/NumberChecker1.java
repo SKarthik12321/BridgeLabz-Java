@@ -1,4 +1,4 @@
-package JavaMethods.level3;
+package coreprogramming.javamethods.level3;
 
 public class NumberChecker1 {
 

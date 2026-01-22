@@ -1,4 +1,4 @@
-package CoreProgramming.JavaMethods.level2;
+package coreprogramming.javamethods.level2;
 
 import java.util.*;
 
