@@ -1,4 +1,4 @@
-package CoreProgramming.JavaStrings.level3;
+package coreprogramming.javastrings.level3;
 
 import java.util.Scanner;
 
