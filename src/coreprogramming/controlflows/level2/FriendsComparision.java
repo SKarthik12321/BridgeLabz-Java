@@ -1,4 +1,4 @@
-package CoreProgramming.ControlFlows.level2;
+package coreprogramming.controlflows.level2;
 import java.util.Scanner;
 class FriendsComparison {
     public static void main(String[] args) {

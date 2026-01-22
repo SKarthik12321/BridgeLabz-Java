@@ -1,4 +1,4 @@
-package CoreProgramming.ControlFlows.level1;
+package coreprogramming.controlflows.level1;
 
 import java.util.Scanner;
 
