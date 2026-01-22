@@ -1,4 +1,4 @@
-package CoreProgramming.ProgrammingElements.level1;
+package coreprogramming.programmingelements.level1;
 
 public class EarthVolume {
     public static void main(String[] args) {
