@@ -2,7 +2,7 @@ package javacollectionsandstreams.exceptions;
 
 import java.util.*;
 
-public class DivisionExceptionDemo {
+public class DivisionExceptionHandler {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {
