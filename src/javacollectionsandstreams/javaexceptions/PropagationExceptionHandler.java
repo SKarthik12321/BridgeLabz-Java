@@ -1,4 +1,4 @@
-package javacollectionsandstreams.exceptions;
+package javacollectionsandstreams.javaexceptions;
 
 public class PropagationExceptionHandler {
     static void m1(){ int x = 10/0; }

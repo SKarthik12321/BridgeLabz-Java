@@ -1,4 +1,4 @@
-package javacollectionsandstreams.exceptions;
+package javacollectionsandstreams.javaexceptions;
 
 public class NestedExceptionHandler {
     public static void main(String[] args) {

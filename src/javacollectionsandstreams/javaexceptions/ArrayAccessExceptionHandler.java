@@ -1,4 +1,4 @@
-package javacollectionsandstreams.exceptions;
+package javacollectionsandstreams.javaexceptions;
 
 public class ArrayAccessExceptionHandler {
     public static void main(String[] args) {

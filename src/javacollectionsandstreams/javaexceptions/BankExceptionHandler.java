@@ -1,4 +1,4 @@
-package javacollectionsandstreams.exceptions;
+package javacollectionsandstreams.javaexceptions;
 
 class InsufficientBalanceException extends Exception {
     InsufficientBalanceException(String m){ super(m); }

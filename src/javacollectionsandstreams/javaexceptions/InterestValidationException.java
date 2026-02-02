@@ -1,4 +1,4 @@
-package javacollectionsandstreams.exceptions;
+package javacollectionsandstreams.javaexceptions;
 
 public class InterestValidationException {
     static double calc(double amt,double rate,int y) {
