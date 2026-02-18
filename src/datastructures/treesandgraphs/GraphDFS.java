@@ -1,0 +1,23 @@
+package datastructures.treesandgraphs;
+
+import java.util.*;
+
+class GraphDFS {
+    static void dfs(int n, List<List<Integer>> g, boolean[] vis) {
+        vis[n] = true;
+        System.out.print(n + " ");
+        for (int nb : g.get(n))
+            if (!vis[nb]) dfs(nb, g, vis);
+    }
+
+    public static void main(String[] args) {
+        int v = 5;
+        List<List<Integer>> g = new ArrayList<>();
+        for (int i = 0; i < v; i++) g.add(new ArrayList<>());
+
+        g.get(0).add(1); g.get(1).add(0);
+        g.get(0).add(2); g.get(2).add(0);
+
+        dfs(0, g, new boolean[v]);
+    }
+}
