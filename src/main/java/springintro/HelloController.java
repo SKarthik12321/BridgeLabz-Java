@@ -4,6 +4,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
 public class HelloController {
@@ -23,6 +25,12 @@ public class HelloController {
     // UC3
     @GetMapping("/hello/param/{name}")
     public String helloParam(@PathVariable String name) {
+        return "Hello " + name + " from BridgeLabz";
+    }
+
+    //UC4
+    @PostMapping("/hello/post")
+    public String helloPost(@RequestBody String name) {
         return "Hello " + name + " from BridgeLabz";
     }
 
