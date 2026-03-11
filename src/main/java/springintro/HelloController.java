@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.PutMapping;
 
 @RestController
 public class HelloController {
@@ -32,6 +33,12 @@ public class HelloController {
     @PostMapping("/hello/post")
     public String helloPost(@RequestBody String name) {
         return "Hello " + name + " from BridgeLabz";
+    }
+
+    // UC5
+    @PutMapping("/hello/put/{firstName}")
+    public String helloPut(@PathVariable String firstName, @RequestParam String lastName) {
+        return "Hello " + firstName + " " + lastName + " from BridgeLabz";
     }
 
 }
