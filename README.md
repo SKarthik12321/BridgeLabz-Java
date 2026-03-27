@@ -224,7 +224,7 @@ Started **Quantity Measurement App** — introduced TDD methodology, Git workflo
 ---
 
 ### • 27-Feb-2026 (Friday)
-- **JDBC Maven Project** — created Maven project, implemented CRUD operations with MySQL Connector.
+- **JDBC Maven Project** — Created Maven project, implemented CRUD operations with MySQL Connector.
 - **JDBC Day 4 Practice** — Employee Payroll use cases with custom SQL exceptions.
 
 ---
@@ -303,7 +303,7 @@ Practice and revision.
 ---
 
 ### • 25-Mar-2026 (Wednesday)
-**Spring Employee Payroll App — MySQL Repository & Service** — configured Hibernate properties, created full DTO and Model, added validations, saved data to MySQL, implemented all CRUD operations.
+**Spring Employee Payroll App — MySQL Repository & Service** — configured Hibernate properties, created full DTO and Model, added validations, saved data to MySQL, implemented all CRUD...
 
 ---
 
