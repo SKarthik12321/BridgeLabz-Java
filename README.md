@@ -38,23 +38,8 @@ Practiced Java Methods — defining methods, calling methods, passing parameters
 
 ---
 
-### • 15-Dec-2025 (Monday)
-Solved Programming Elements Level 1 and Level 2 problems using user-defined input, command-line input, and real-world scenarios.
-
----
-
-### • 16-Dec-2025 (Tuesday)
-Practiced Control Flow: conditional statements, loops (`for`, `while`, `do-while`), switch-case, and Level 1 to Level 3 problems.
-
----
-
-### • 17-Dec-2025 (Wednesday)
-Practiced Java Arrays with Level 1 and Level 2 problems involving one-dimensional and two-dimensional arrays and logical problem solving.
-
----
-
-### • 18-Dec-2025 (Thursday)
-Practiced Java Methods including built-in functions and string handling; organized code using a branch-based Git workflow.
+### • 15-Dec-2025 – 19-Dec-2025 (Monday – Friday)
+Solved Programming Elements Level 1 & 2; practiced Control Flow (conditionals, loops, switch-case), Java Arrays (1D & 2D), and Java Methods with string handling using branch-based Git workflow.
 
 ---
 
@@ -104,7 +89,7 @@ Submitted Data Structures work on Linked Lists: Single, Double, and Circular Lin
 ---
 
 ### • 15-Jan-2026 (Thursday)
-Practiced Inheritance topic (Week 2 - Day 5); pushed completed code to GitHub.
+Practiced Inheritance topic (Week 2 – Day 5); pushed completed code to GitHub.
 
 ---
 
@@ -118,7 +103,7 @@ Learned Sorting Algorithms: Bubble Sort, Insertion Sort, Merge Sort, and Quick S
 
 ---
 
-### • 19-Jan-2026 (Monday)
+### • 19-Jan-2026 – 20-Jan-2026 (Monday – Tuesday)
 Covered StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, and Binary Search.
 
 ---
@@ -128,12 +113,17 @@ Studied Algorithm Runtime Analysis and Big-O Notation: Time & Space Complexity, 
 
 ---
 
-### • 23-Jan-2026 (Friday)
+### • 22-Jan-2026 – 23-Jan-2026 (Thursday – Friday)
 Built **OOPS Banner App** (console-based, UC1–UC8) following GitFlow, clean commit history, and branch management.
 
 ---
 
-### • 27-Jan-2026 (Tuesday)
+### • 24-Jan-2026 (Saturday)
+Practice and revision.
+
+---
+
+### • 26-Jan-2026 – 27-Jan-2026 (Monday – Tuesday)
 Studied Java Generics: type parameters, generic classes/methods, bounded type parameters, and wildcards.
 
 ---
@@ -148,7 +138,7 @@ Developed **Factory Robot Hazard Analyzer** — evaluates hazard risk score usin
 
 ---
 
-### • 31-Jan-2026 (Saturday)
+### • 30-Jan-2026 – 31-Jan-2026 (Friday – Saturday)
 Studied Java I/O Streams: File, Object, ByteArray, Buffered Streams, Reader and Writer.
 
 ---
@@ -168,23 +158,18 @@ Covered Regex (metacharacters, quantifiers, email/password/phone validation) and
 
 ---
 
-### • 05-Feb-2026 (Thursday)
-Studied Java 8 Features: Lambda Expressions, Stream API, Method References, Anonymous Classes, Interface types.
+### • 05-Feb-2026 – 07-Feb-2026 (Thursday – Saturday)
+Studied Java 8 Features: Lambda Expressions, Stream API, Method References, Anonymous Classes, Interface types. Created **STREAM-API** repository and practiced Stream API with GitFlow.
 
 ---
 
-### • 09-Feb-2026 (Monday)
-Created **STREAM-API** repository; practiced Stream API with GitFlow.
-
----
-
-### • 10-Feb-2026 (Tuesday)
+### • 09-Feb-2026 – 10-Feb-2026 (Monday – Tuesday)
 Focused on Advanced Java (Java 8 Features) — theory and practical implementation.
 
 ---
 
 ### • 11-Feb-2026 (Wednesday)
-Studied Java 8 Streams API; submitted CSV Data Handling assignment.
+Studied Java 8 Streams API in depth; submitted CSV Data Handling assignment.
 
 ---
 
@@ -194,23 +179,23 @@ Started HackerRank practice (60 Java problems, 5 per day).
 
 ---
 
+### • 13-Feb-2026 – 15-Feb-2026 (Friday – Sunday)
+HackerRank practice continued.
+
+---
+
 ### • 16-Feb-2026 (Monday)
 Solved Tree and Graph problem statements (5 Tree + 5 Graph problems in Java).
 
 ---
 
-### • 18-Feb-2026 (Wednesday)
+### • 17-Feb-2026 – 18-Feb-2026 (Tuesday – Wednesday)
 Covered Annotations, Reflection, and Design Principles: built-in/custom annotations, annotation processing, and using Reflection in Java.
 
 ---
 
-### • 19-Feb-2026 (Thursday)
-Practiced Design Patterns.
-
----
-
-### • 21-Feb-2026 (Saturday)
-Solved Multi-threading problem statements.
+### • 19-Feb-2026 – 21-Feb-2026 (Thursday – Saturday)
+Practiced Design Patterns; solved Multi-threading problem statements.
 
 ---
 
@@ -253,7 +238,7 @@ Started **Quantity Measurement App** — introduced TDD methodology, Git workflo
 ---
 
 ### • 02-Mar-2026 (Monday)
-- **DBC Transactions** — Date queries (Java Date & SQL Date), MySQL Functions, Group By, JDBC Transactions, Employee Payroll ER Model with JDBC.
+- **JDBC Transactions** — Date queries (Java Date & SQL Date), MySQL Functions, Group By, JDBC Transactions, Employee Payroll ER Model with JDBC.
 - **UC9:** Weight Measurement — equality, conversion, and addition (Kilogram, Gram, Pound).
 - **UC10:** Generic `Quantity<U>` class with `IMeasurable` interface for multi-category support.
 
@@ -272,8 +257,8 @@ Introduction to JSON — reading, writing, parsing JSON data, and JSON Schema Va
 
 ---
 
-### • 05-Mar-2026 (Thursday)
-**Tomcat & Servlet** — created a Java Web Server, introduced Tomcat, developed a simple Servlet application.
+### • 05-Mar-2026 – 08-Mar-2026 (Thursday – Sunday)
+**Tomcat & Servlet** — created a Java Web Server, introduced Tomcat, developed a simple Servlet application. Practice and revision over the weekend.
 
 ---
 
@@ -282,8 +267,13 @@ Introduction to JSON — reading, writing, parsing JSON data, and JSON Schema Va
 
 ---
 
-### • 11-Mar-2026 (Wednesday)
-**Spring REST API Calls** — built `GreetingController` with multiple HTTP methods (UC1–UC8).,; tested using CURL; started Simple Messaging App.
+### • 10-Mar-2026 – 11-Mar-2026 (Tuesday – Wednesday)
+**Spring REST API Calls** — built `GreetingController` with multiple HTTP methods (UC1–UC8), tested using CURL; started Simple Messaging App.
+
+---
+
+### • 12-Mar-2026 – 16-Mar-2026 (Thursday – Monday)
+Practice, revision, and completion of Greeting App use cases.
 
 ---
 
@@ -292,12 +282,22 @@ Introduction to JSON — reading, writing, parsing JSON data, and JSON Schema Va
 
 ---
 
+### • 18-Mar-2026 – 19-Mar-2026 (Wednesday – Thursday)
+Practice and revision of Spring multi-layer concepts.
+
+---
+
 ### • 20-Mar-2026 (Friday)
 **Spring Employee Payroll App — Service Layer** — set up service layer; started AddressBook App (Sections 1 & 2: controller and CURL calls).
 
 ---
 
-### • 24-Mar-2026 (Tuesday)
+### • 21-Mar-2026 (Saturday)
+Practice and revision.
+
+---
+
+### • 23-Mar-2026 – 24-Mar-2026 (Monday – Tuesday)
 **Spring Employee Payroll App — Application Settings, Validators & Exception Handlers** — added validations, exception handling; completed AddressBook App up to Section 4 (service layer with local list, validations, CURL tested).
 
 ---
