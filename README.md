@@ -303,17 +303,182 @@ Practice and revision.
 ---
 
 ### • 25-Mar-2026 (Wednesday)
-**Spring Employee Payroll App — MySQL Repository & Service** — configured Hibernate properties, created full DTO and Model, added validations, saved data to MySQL, implemented all CRUD...
+**Spring Employee Payroll App — MySQL Repository & Service** — configured Hibernate properties, created full DTO and Model, added validations, saved data to MySQL, implemented all CRUD operations.
 
 ---
 
-### • 26-Mar-2026 (Thursday) — Spring Boot Day 7 & 8
+### • 26-Mar-2026 (Thursday)
 **Spring Employee Payroll App — MySQL Repository & Service (Advanced)**
 - Configured Hibernate properties in `application.properties`.
-- Created complete Employee Payroll DTO and Model.
-- Applied field-level validation (including date field).
-- Mapped Model from DTO.
-- Saved Employee Payroll data to MySQL repository.
-- Implemented all CRUD operations.
+- Created complete Employee Payroll DTO and Model with field-level validations.
+- Mapped Model from DTO; saved data to MySQL; implemented all CRUD operations.
+
+---
+
+### • 27-Mar-2026 (Friday)
+Practice and revision of Spring Boot MySQL integration; resolved pending Spring Boot assignments with proper folder structure.
+
+---
+
+### • 30-Mar-2026 (Monday)
+**UC15: N-Tier Architecture Refactoring** — converted Quantity Measurement App from plain Java into a Spring-based N-Tier project.
+**Spring Security** — studied Spring Security fundamentals; started **Hospital Management System** with Spring Boot + JWT.
+
+---
+
+### • 31-Mar-2026 (Tuesday)
+**Hospital Management System** — implemented JWT-based authentication and role-based authorization; configured Spring Security filter chain.
+
+---
+
+### • 01-Apr-2026 (Wednesday)
+**FundooNotes App — Part 1** — implemented Spring Boot foundations, externalized configuration, REST API basics, Bean Scopes, JPA, User Authentication Design, Exception Handling, and Logging.
+
+---
+
+### • 02-Apr-2026 (Thursday)
+**FundooNotes App — Part 2** — integrated JMS, Redis, RabbitMQ, Spring Batch, Excel integration, Caching, AOP, and Spring Cloud; submitted both parts under a single repository.
+
+---
+
+### • 03-Apr-2026 (Friday)
+Practice and revision of FundooNotes advanced backend concepts.
+
+---
+
+### • 06-Apr-2026 (Monday)
+**UC16: Database Integration with JDBC** — implemented JDBC-based persistence layer for Quantity Measurement App.
+
+---
+
+### • 07-Apr-2026 (Tuesday)
+**UC17: Spring Framework Integration** — added REST Services and Spring Data JPA to Quantity Measurement App; replaced raw JDBC with JPA repositories.
+
+---
+
+### • 08-Apr-2026 (Wednesday)
+Studied JMS (Java Message Service) and Redis with Spring Boot; planned **Bookstore E-Commerce Microservices** architecture — decomposed monolithic API into 9 independent services.
+
+---
+
+### • 09-Apr-2026 (Thursday)
+**Bookstore E-Commerce** — set up core infrastructure: API Gateway (Spring Cloud Gateway, port 8080), Eureka Discovery Server (port 8761), and Config Server (port 8888).
+
+---
+
+### • 10-Apr-2026 (Friday)
+**Bookstore E-Commerce** — implemented User Service (PostgreSQL, JWT issuance) and Admin Service; registered both with Eureka.
+
+---
+
+### • 13-Apr-2026 (Monday)
+**Bookstore E-Commerce** — studied RabbitMQ and Spring Batch material; built Product Service (book CRUD, inventory) and Cart Service (Redis-backed sessions).
+
+---
+
+### • 14-Apr-2026 (Tuesday)
+**Bookstore E-Commerce** — implemented WishList Service, Customer Service (delivery addresses), and Order Service with Kafka event publishing for order lifecycle.
+
+---
+
+### • 15-Apr-2026 (Wednesday)
+**Bookstore E-Commerce** — studied Microservices with Java & Spring Boot material; built Feedback Service (reviews & ratings) and Notification Service (Kafka consumer for email/SMS alerts).
+
+---
+
+### • 16-Apr-2026 (Thursday)
+**Bookstore E-Commerce** — end-to-end integration testing across all 9 microservices; verified synchronous (OpenFeign) and asynchronous (Kafka) inter-service communication.
+
+---
+
+### • 17-Apr-2026 (Friday)
+**Bookstore E-Commerce — Microservices Architecture** — finalized complete 9-microservice bookstore system; Dockerized all services with `docker-compose` and submitted.
+
+---
+
+### • 20-Apr-2026 (Monday)
+Spring Cloud deep dive — centralized Config Server setup, circuit breakers (Resilience4j), and distributed tracing.
+
+---
+
+### • 21-Apr-2026 (Tuesday)
+Practice and revision of Spring Cloud patterns and microservices best practices.
+
+---
+
+### • 22-Apr-2026 (Wednesday)
+Studied OAuth2 and Google Authentication flow with Spring Security; user management and token refresh patterns.
+
+---
+
+### • 23-Apr-2026 (Thursday)
+Practice and revision.
+
+---
+
+### • 24-Apr-2026 (Friday)
+Revised Spring Cloud Gateway — routing rules, JWT validation, rate limiting, and CORS configuration at the gateway level.
+
+---
+
+### • 27-Apr-2026 (Monday)
+**Cloud Deployment** — followed recorded session on 3-tier app deployment on AWS EC2: Database tier (MySQL), Backend tier (Spring Boot), Web Server tier (Nginx).
+
+---
+
+### • 28-Apr-2026 (Tuesday)
+Practice — manual EC2 deployment verification; debugged Spring Boot–MySQL connectivity on EC2 instance.
+
+---
+
+### • 29-Apr-2026 (Wednesday)
+Continued cloud deployment practice; studied Jenkins CI/CD pipeline concepts and build automation.
+
+---
+
+### • 30-Apr-2026 (Thursday)
+Practice and revision of cloud deployment and DevOps fundamentals.
+
+---
+
+### • 01-May-2026 (Friday)
+Planned **Stock Portfolio Monitoring App** architecture — 10-service Spring Boot + Spring Cloud system (API Gateway, Eureka, Config Server, Auth, User, Portfolio, Price Fetcher, Alert, Notification, Report Services).
+
+---
+
+### • 04-May-2026 (Monday)
+**Stock Portfolio App** — initialized all service modules; set up Eureka Discovery Server, Config Server, and API Gateway with JWT validation.
+
+---
+
+### • 05-May-2026 (Tuesday)
+**Stock Portfolio App** — implemented Auth Service (Spring Security + JWT + OAuth2) and User Service with profile management.
+
+---
+
+### • 06-May-2026 (Wednesday)
+**Stock Portfolio App** — built Portfolio Service and Price Fetcher Service; integrated RabbitMQ for async price update events between services.
+
+---
+
+### • 07-May-2026 (Thursday)
+**Stock Portfolio App** — implemented Alert Service and Notification Service; added Redis caching for portfolio data.
+**UC18: Google Authentication and User Management** — integrated Google OAuth2 login and user management into Quantity Measurement App.
+**UC19: Spring Boot Microservices** — refactored Quantity Measurement App into a Spring Boot microservices architecture.
+
+---
+
+### • 08-May-2026 (Friday)
+**Docker** — containerized all Stock Portfolio microservices; wrote Dockerfiles per service and a unified `docker-compose.yml`; studied Docker networking, volumes, and multi-container orchestration.
+
+---
+
+### • 11-May-2026 (Monday)
+**AWS EC2 Deployment** — deployed Stock Portfolio App on AWS EC2; configured security groups, environment variables, and MySQL RDS; implemented and tested Report Service.
+
+---
+
+### • 12-May-2026 (Tuesday)
+**Jenkins CI/CD** — set up Jenkins pipeline for automated build, test, and deployment of Stock Portfolio App; end-to-end pipeline verified with GitHub webhook integration.
 
 ---
