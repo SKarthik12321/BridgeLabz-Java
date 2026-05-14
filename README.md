@@ -411,11 +411,6 @@ Studied OAuth2 and Google Authentication flow with Spring Security; user managem
 
 ---
 
-### • 23-Apr-2026 (Thursday)
-Practice and revision.
-
----
-
 ### • 24-Apr-2026 (Friday)
 Revised Spring Cloud Gateway — routing rules, JWT validation, rate limiting, and CORS configuration at the gateway level.
 
